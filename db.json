@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "username": "alex",
+      "password": "1234",
+      "id": "aUGglWdC1P0"
+    },
+    {
+      "username": "bobi",
+      "password": "1234",
+      "id": "6yPbtyGhGYU"
+    },
+    {
+      "username": "radi",
+      "password": "1234",
+      "id": "TepKpLq8dqg"
+    },
+    {
+      "username": "alex",
+      "password": "1234",
+      "id": "N0kUlQCBiX8"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
